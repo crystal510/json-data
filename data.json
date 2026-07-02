@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "JavaScript",
+    "creator": "Brendan Eich",
+    "yearReleased": 1995,
+    "typing": "Dynamic",
+    "paradigm": "Multi-paradigm",
+    "fileExtension": ".js"
+  },
+  {
+    "id": 2,
+    "name": "Python",
+    "creator": "Guido van Rossum",
+    "yearReleased": 1991,
+    "typing": "Dynamic",
+    "paradigm": "Object-Oriented",
+    "fileExtension": ".py"
+  },
+  {
+    "id": 3,
+    "name": "Java",
+    "creator": "James Gosling",
+    "yearReleased": 1995,
+    "typing": "Static",
+    "paradigm": "Object-Oriented",
+    "fileExtension": ".java"
+  },
+  {
+    "id": 4,
+    "name": "C++",
+    "creator": "Bjarne Stroustrup",
+    "yearReleased": 1985,
+    "typing": "Static",
+    "paradigm": "Multi-paradigm",
+    "fileExtension": ".cpp"
+  },
+  {
+    "id": 5,
+    "name": "C#",
+    "creator": "Microsoft",
+    "yearReleased": 2000,
+    "typing": "Static",
+    "paradigm": "Object-Oriented",
+    "fileExtension": ".cs"
+  },
+  {
+    "id": 6,
+    "name": "PHP",
+    "creator": "Rasmus Lerdorf",
+    "yearReleased": 1995,
+    "typing": "Dynamic",
+    "paradigm": "Scripting",
+    "fileExtension": ".php"
+  },
+  {
+    "id": 7,
+    "name": "Ruby",
+    "creator": "Yukihiro Matsumoto",
+    "yearReleased": 1995,
+    "typing": "Dynamic",
+    "paradigm": "Object-Oriented",
+    "fileExtension": ".rb"
+  },
+  {
+    "id": 8,
+    "name": "Swift",
+    "creator": "Apple",
+    "yearReleased": 2014,
+    "typing": "Static",
+    "paradigm": "Multi-paradigm",
+    "fileExtension": ".swift"
+  },
+  {
+    "id": 9,
+    "name": "Kotlin",
+    "creator": "JetBrains",
+    "yearReleased": 2011,
+    "typing": "Static",
+    "paradigm": "Object-Oriented",
+    "fileExtension": ".kt"
+  },
+  {
+    "id": 10,
+    "name": "Go",
+    "creator": "Google",
+    "yearReleased": 2009,
+    "typing": "Static",
+    "paradigm": "Compiled",
+    "fileExtension": ".go"
+  }
+]
