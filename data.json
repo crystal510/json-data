@@ -1,92 +1,92 @@
 [
   {
     "id": 1,
-    "name": "JavaScript",
-    "creator": "Brendan Eich",
-    "yearReleased": 1995,
-    "typing": "Dynamic",
-    "paradigm": "Multi-paradigm",
-    "fileExtension": ".js"
+    "name": "Rizal Park",
+    "location": "Manila",
+    "country": "Philippines",
+    "type": "Historical Park",
+    "yearEstablished": 1820,
+    "entranceFee": "Free"
   },
   {
     "id": 2,
-    "name": "Python",
-    "creator": "Guido van Rossum",
-    "yearReleased": 1991,
-    "typing": "Dynamic",
-    "paradigm": "Object-Oriented",
-    "fileExtension": ".py"
+    "name": "Chocolate Hills",
+    "location": "Bohol",
+    "country": "Philippines",
+    "type": "Natural Landmark",
+    "yearEstablished": 1988,
+    "entranceFee": "Paid"
   },
   {
     "id": 3,
-    "name": "Java",
-    "creator": "James Gosling",
-    "yearReleased": 1995,
-    "typing": "Static",
-    "paradigm": "Object-Oriented",
-    "fileExtension": ".java"
+    "name": "Boracay White Beach",
+    "location": "Aklan",
+    "country": "Philippines",
+    "type": "Beach",
+    "yearEstablished": 1970,
+    "entranceFee": "Free"
   },
   {
     "id": 4,
-    "name": "C++",
-    "creator": "Bjarne Stroustrup",
-    "yearReleased": 1985,
-    "typing": "Static",
-    "paradigm": "Multi-paradigm",
-    "fileExtension": ".cpp"
+    "name": "Mayon Volcano",
+    "location": "Albay",
+    "country": "Philippines",
+    "type": "Volcano",
+    "yearEstablished": 1938,
+    "entranceFee": "Paid"
   },
   {
     "id": 5,
-    "name": "C#",
-    "creator": "Microsoft",
-    "yearReleased": 2000,
-    "typing": "Static",
-    "paradigm": "Object-Oriented",
-    "fileExtension": ".cs"
+    "name": "Puerto Princesa Underground River",
+    "location": "Palawan",
+    "country": "Philippines",
+    "type": "Natural Wonder",
+    "yearEstablished": 1999,
+    "entranceFee": "Paid"
   },
   {
     "id": 6,
-    "name": "PHP",
-    "creator": "Rasmus Lerdorf",
-    "yearReleased": 1995,
-    "typing": "Dynamic",
-    "paradigm": "Scripting",
-    "fileExtension": ".php"
+    "name": "Banaue Rice Terraces",
+    "location": "Ifugao",
+    "country": "Philippines",
+    "type": "Cultural Heritage",
+    "yearEstablished": 1995,
+    "entranceFee": "Paid"
   },
   {
     "id": 7,
-    "name": "Ruby",
-    "creator": "Yukihiro Matsumoto",
-    "yearReleased": 1995,
-    "typing": "Dynamic",
-    "paradigm": "Object-Oriented",
-    "fileExtension": ".rb"
+    "name": "Vigan Heritage Village",
+    "location": "Ilocos Sur",
+    "country": "Philippines",
+    "type": "Historical Site",
+    "yearEstablished": 1999,
+    "entranceFee": "Free"
   },
   {
     "id": 8,
-    "name": "Swift",
-    "creator": "Apple",
-    "yearReleased": 2014,
-    "typing": "Static",
-    "paradigm": "Multi-paradigm",
-    "fileExtension": ".swift"
+    "name": "Taal Volcano",
+    "location": "Batangas",
+    "country": "Philippines",
+    "type": "Volcano",
+    "yearEstablished": 1967,
+    "entranceFee": "Paid"
   },
   {
     "id": 9,
-    "name": "Kotlin",
-    "creator": "JetBrains",
-    "yearReleased": 2011,
-    "typing": "Static",
-    "paradigm": "Object-Oriented",
-    "fileExtension": ".kt"
+    "name": "Hundred Islands National Park",
+    "location": "Pangasinan",
+    "country": "Philippines",
+    "type": "National Park",
+    "yearEstablished": 1940,
+    "entranceFee": "Paid"
   },
   {
     "id": 10,
-    "name": "Go",
-    "creator": "Google",
-    "yearReleased": 2009,
-    "typing": "Static",
-    "paradigm": "Compiled",
-    "fileExtension": ".go"
+    "name": "Siargao Island",
+    "location": "Surigao del Norte",
+    "country": "Philippines",
+    "type": "Island",
+    "yearEstablished": 1996,
+    "entranceFee": "Free"
   }
 ]
